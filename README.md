@@ -1,2 +1,3 @@
 
-Hi! My name is Mohamed Deraz Nasr, welcome to my GitHub! ☀️ 
+CS @ Georgia Tech
+contact - mderaznasr@gmail.com
